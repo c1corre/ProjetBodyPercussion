@@ -1,0 +1,13 @@
+﻿<Properties>
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+  <MonoDevelop.Ide.Workbench ActiveDocument="Assets\Scripts\Sound.cs">
+    <Files>
+      <File FileName="Assets\Scripts\Sound.cs" Line="22" Column="1" />
+      <File FileName="..\..\..\ProjetInfo\VLM\projet-rythmique-release\1 - Projet Unity\Assets\Scripts\Loop.cs" Line="36" Column="3" />
+    </Files>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+</Properties>
