@@ -49,6 +49,8 @@
      <Compile Include="Assets\Scripts\Note.cs" />
      <Compile Include="Assets\Scripts\Partition.cs" />
      <Compile Include="Assets\Scripts\Piste.cs" />
+     <Compile Include="Assets\Scripts\Son.cs" />
+     <Compile Include="Assets\Scripts\View.cs" />
  <Reference Include="UnityEngine.Advertisements">
  <HintPath>C:/Program Files/Unity/Editor/Data/UnityExtensions/Unity/Advertisements/UnityEngine.Advertisements.dll</HintPath>
  </Reference>
